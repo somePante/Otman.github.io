@@ -8,7 +8,7 @@ const otman = document.getElementById("otman");
 const datosPorAño = {
   2005: {
     texto: "Un ser humano delicado, destinado a ser el Guardián del Alba. Nace, dándole luz a la noche.",
-    imagen: "media.discordapp.net/attachments/1408066503839842464/1437192059638386768/IMG_20251109_220524.jpg?ex=691258e8&is=69110768&hm=b125b805af667e47284fd66bc5191f4855a5761c13833a247ec0288ee35a5f10&=&format=webp&width=519&height=693"
+    imagen: "https://media.discordapp.net/attachments/1408066503839842464/1437192059638386768/IMG_20251109_220524.jpg?ex=691258e8&is=69110768&hm=b125b805af667e47284fd66bc5191f4855a5761c13833a247ec0288ee35a5f10&=&format=webp&width=519&height=693"
   },
   2006: {
     texto: "El destino de programador se traza en su piel negra como el carbón.",
